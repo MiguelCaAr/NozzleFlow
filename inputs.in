@@ -1,0 +1,22 @@
+PARÁMETROS
+        CFL = 0.950000000000000
+        delta_x = 0.0000312500000000000
+        N_nodos = 64001
+        simTime = 0.000500000000000000
+        intervalo_extraer = 1600
+        is_sonda = 0
+        N_nodo_sonda = 200
+        C.CONTORNO
+        entrada_libre = 0
+        salida_libre = 1
+        PuntosDefinidos = 4
+        nodos_definidos =  0 31999 32001
+        P = 200000 200000 20000 20000
+        T = 300 300 240 240
+        v = 0 0 0 0
+        LONGITUDES
+        Amax = 2
+        Amin = 2
+        SOLVER-MACCOMARCK-ROE-HLLS-HLLCS
+        Solver = 1
+        
