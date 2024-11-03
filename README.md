@@ -1,0 +1,1 @@
+C++ program to solve the subsonic/supersonic flow in a rocket nozzle. The problem is solved in 1D and the program is written so different algorithms can be use in order to compare their behaviour in different flows.
